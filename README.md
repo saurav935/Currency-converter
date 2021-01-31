@@ -1,1 +1,1 @@
-# python-applications
+This currency converter is Python code that is designed to convert one currency into another in order to check its corresponding value. It is done so by connecting to a database of current currency exchange rates. In this project fixer API is used to get the live conversion rates and convert it to the desired currency.
