@@ -1,5 +1,8 @@
 # Currency-converter
 
+![apps 22865 9007199266252124 f8447bb2-5880-4665-a0ff-e4384c0b5327](https://user-images.githubusercontent.com/75733364/107473973-875a2e00-6b97-11eb-813d-8618e6b8b3f8.jpg)
+
+
 This currency converter is built in Python using exchange rates from Fixer.io API, in order to get updated currency rates.
 
 Prerequisities :
