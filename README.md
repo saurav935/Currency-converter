@@ -23,9 +23,8 @@ BASIC INSTRUCTIONS REGARDING THE RUNNING OF APPLICATION :
 
 - The amount is the amount which we want to convert (float)
 
-- The input and the output currencies are the currencies currently supported by the Fixer.io API. (AUD,BGN,BRL,CAD,CHF,CNY,CZK,DKK,GBP,HKD,HRK,HUF,IDR,ILS,INR,JPY,KRW,MXN,MYR,NOK,NZD,PHP,PLN,RON,RUB,SEK,SGD,THB,TRY,USD,ZAR)
+- The input and the output currencies are the currencies currently supported by the Fixer API. (AUD,BGN,BRL,CAD,CHF,CNY,CZK,DKK,GBP,HKD,HRK,HUF,IDR,ILS,INR,JPY,KRW,MXN,MYR,NOK,NZD,PHP,PLN,RON,RUB,SEK,SGD,THB,TRY,USD,ZAR)
 
-- The output currency is optional. In case of not providing a value, the script converts to all known currencies.
 
 Moreover, you can use the following symbols as input or output currencies :
 
